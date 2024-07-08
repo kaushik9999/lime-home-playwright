@@ -22,3 +22,14 @@
 3. Folder Pages contains all the page objects and helper funtions.
 4. Folder tests contains all the spec files.
 5. Folder Utils contains all the custom utilities realated files. 
+
+# ADDITIONAL NOTES
+1. I have kept the test strategy, scenarios, and test report documents as PDF files in the root folder of this repository.
+2. In identifying elements, I primarily utilized the locator method and CSS locator strategies. This was due to the unreliability of the custom locators available in playwright on this particular website/application.
+3. Due to time constraints and other commitments, not all of the listed tests in the scenarios document were implemented. However, a reasonable number of scenarios were implemented.
+4. Please note that if you do not pass the "test_env=qa" parameter at the beginning of the command, you will not be able to execute these test cases. 
+
+# CUT TO THE CHASE(commands)
+1. npm install
+2. npm install playwright
+3. test_env=qa npm run test:headed check-out product-search shopping-cart limehome-properties-api
