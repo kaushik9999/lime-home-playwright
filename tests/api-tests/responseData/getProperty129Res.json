@@ -1,0 +1,1939 @@
+{
+    "success": true,
+    "message": "Successfully fetched property.",
+    "payload": {
+        "id": 129,
+        "external_id": "VER2",
+        "review_widget_id": "elfsight-app-4ffaba6f-7b1c-4d32-9f0a-d5120d13dbcf",
+        "name": "aachen vereinsstraße",
+        "city": "aachen",
+        "city_id": 27,
+        "street": "vereinsstraße",
+        "location": {
+            "lat": 50.7697713,
+            "lng": 6.0931558,
+            "city": "Aachen",
+            "postalCode": "52062",
+            "countryCode": "DE",
+            "addressLine1": "Vereinsstraße 2",
+            "countryName": "Germany"
+        },
+        "timezone": "Europe/Berlin",
+        "distance": 0.4408815508237934,
+        "description": "In the middle of Aachen's city center you will find our limehome Aachen Vereinsstraße in a quiet side street. Due to the convenient location, you will find the perfect place to escape the hustle and bustle of the city center and start the day relaxed. The connection with public transport could not be better, as the main train station is only 270 m away.",
+        "additional_services": null,
+        "parking": "Unfortunately, there are no private parking spaces available in our limehome. However, with a little luck you will find a paid parking space in the surrounding streets. If you are looking for a covered parking space, you can also park your car in the nearest APAG parking garage Hauptbahnhof, which is only 400 meters away on foot.",
+        "things_to_know": "Please note: in order to receive your personal access code, you have to complete our online check-in. You will receive the link and detailed instructions by email after your booking.",
+        "house_rules": "Short and simple: no smoking, no parties or events and no pets. Quiet hours 10 p.m. - 7 a.m.",
+        "images": [
+            {
+                "url": "https://limehome.imgix.net/properties/129/9c245322-9c0a-4571-923d-3b47051ebcf7.jpg",
+                "is_portrait": false,
+                "position": 0,
+                "unit_group_ids": [
+                    9
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/383e1b38-a85d-41d6-a68e-a2650f4b5914.jpg",
+                "is_portrait": true,
+                "position": 1,
+                "unit_group_ids": [],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/80bd9512-8039-4313-a8b8-d10128a1bda4.jpg",
+                "is_portrait": false,
+                "position": 2,
+                "unit_group_ids": [],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/fef94dbd-2dda-44f4-90d4-94dfd0eef751.jpg",
+                "is_portrait": false,
+                "position": 3,
+                "unit_group_ids": [
+                    10
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/472cf478-4027-4633-be42-dfd4a031253e.jpg",
+                "is_portrait": false,
+                "position": 4,
+                "unit_group_ids": [
+                    10
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/f70c3a6b-fb4c-4e15-8291-dca2b62a5036.jpg",
+                "is_portrait": false,
+                "position": 5,
+                "unit_group_ids": [
+                    8
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/743a4c97-31db-42d5-940c-a0bb73ebca4c.jpg",
+                "is_portrait": true,
+                "position": 6,
+                "unit_group_ids": [
+                    11
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/77527bfd-223c-4ec9-ba78-0f6652e868b5.jpg",
+                "is_portrait": false,
+                "position": 7,
+                "unit_group_ids": [
+                    11
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/4e7aa247-6474-4ab9-9781-7c280e665478.jpg",
+                "is_portrait": false,
+                "position": 8,
+                "unit_group_ids": [
+                    9
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/663c1b27-e88f-480e-8bb0-db941172e5b2.jpg",
+                "is_portrait": false,
+                "position": 9,
+                "unit_group_ids": [
+                    9
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/08ad9092-6154-4349-968c-076a1fc1a947.jpg",
+                "is_portrait": false,
+                "position": 10,
+                "unit_group_ids": [
+                    11
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/97298f2b-65ae-4e32-85c4-7bf0832a8347.jpg",
+                "is_portrait": false,
+                "position": 11,
+                "unit_group_ids": [
+                    11
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/3fb45ac9-be4d-41b2-a20f-03fd3011f341.jpg",
+                "is_portrait": true,
+                "position": 12,
+                "unit_group_ids": [
+                    11
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/d752f177-e3d8-4748-9811-482a24a310e0.jpg",
+                "is_portrait": false,
+                "position": 13,
+                "unit_group_ids": [
+                    11
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/dfff038d-5b10-4424-bb84-2bdc1b6ed3e5.jpg",
+                "is_portrait": false,
+                "position": 14,
+                "unit_group_ids": [
+                    11
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/32eabd52-52d5-4475-bddd-41233d77d933.jpg",
+                "is_portrait": false,
+                "position": 15,
+                "unit_group_ids": [
+                    11
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/2b13f28c-5818-4e42-8f3d-0e78c982e420.jpg",
+                "is_portrait": false,
+                "position": 16,
+                "unit_group_ids": [
+                    11
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/4aa2db8f-d813-434c-89b3-443af5616944.jpg",
+                "is_portrait": false,
+                "position": 17,
+                "unit_group_ids": [
+                    11
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/0c8f34c3-937a-4cb5-b02b-2704529cda42.jpg",
+                "is_portrait": false,
+                "position": 18,
+                "unit_group_ids": [
+                    11
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/51cbe343-eb86-458c-af6b-f31085e48256.jpg",
+                "is_portrait": false,
+                "position": 19,
+                "unit_group_ids": [
+                    8,
+                    11
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/b72e65d3-4dee-4dbe-868e-59f58f555b0d.jpg",
+                "is_portrait": false,
+                "position": 20,
+                "unit_group_ids": [
+                    8
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/25e80409-e11f-48f9-bb3d-0f04dfe6e322.jpg",
+                "is_portrait": false,
+                "position": 21,
+                "unit_group_ids": [
+                    10
+                ],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/71754bd7-adf7-4a89-bb94-7139eeb44052.jpg",
+                "is_portrait": false,
+                "position": 22,
+                "unit_group_ids": [],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/545c2e51-55ac-4b26-b690-fdc54354389a.jpg",
+                "is_portrait": false,
+                "position": 23,
+                "unit_group_ids": [],
+                "tags": []
+            },
+            {
+                "url": "https://limehome.imgix.net/properties/129/6cf68212-e180-440a-9c72-d434e0cdd24a.jpg",
+                "is_portrait": false,
+                "position": 24,
+                "unit_group_ids": [],
+                "tags": []
+            }
+        ],
+        "lowest_price_per_night": null,
+        "lowest_price_per_month": null,
+        "default_check_in_time": "15:00",
+        "default_check_out_time": "11:00",
+        "unit_groups": [
+            {
+                "id": 8,
+                "title": "Aachen Vereinsstraße | Junior Suite",
+                "description": "Our 21 sqm Suites S are furnished to our highest modern standards. The Suites feature a fully equipped kitchen, a comfortable box-spring bed (1.60 m) including a modern smart TV and a private bathroom with shower, so you can feel right at home. In case of dirty laundry, you have the possibility to wash your clothes in the shared laundry room. Therefore your apartment offers everything you need for a stay with us in just one room.",
+                "custom_title": "",
+                "external_id": "VER2-SINGLESTU",
+                "name": "Suite S",
+                "max_guests": 2,
+                "rental_type": "ST",
+                "bedroom_count": 1,
+                "lowest_price_per_night": null,
+                "lowest_price_per_month": null,
+                "spaces": [
+                    {
+                        "icon": "house-user",
+                        "name": "m²",
+                        "name_plural": "m²",
+                        "slug": "square-meter",
+                        "value": 21
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Queen-size bed (1.60 m)",
+                        "name_plural": "Queen-size beds (1.60 m)",
+                        "slug": "beds",
+                        "value": 1
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.60 m)",
+                        "name_plural": "Sofa beds (1.60 m)",
+                        "slug": "sofa-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Single bed (1.20 m)",
+                        "name_plural": "Single beds",
+                        "slug": "single-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Double bed (1.40 m)",
+                        "name_plural": "Double beds (1.40 m)",
+                        "slug": "double-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "door-open",
+                        "name": "Room",
+                        "name_plural": "Rooms",
+                        "slug": "room",
+                        "value": 1
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Queen-size bed (1.50 m)",
+                        "name_plural": "Queen-size beds (1.50 m)",
+                        "slug": "double-bed-150-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "King-size bed (1.80 m)",
+                        "name_plural": "King-size beds (1.80 m)",
+                        "slug": "king-size-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "umbrella-beach",
+                        "name": "Balcony",
+                        "name_plural": "Balconies",
+                        "slug": "balcony",
+                        "value": 0
+                    },
+                    {
+                        "icon": "cloud-sun",
+                        "name": "Terrace",
+                        "name_plural": "Terraces",
+                        "slug": "terrace",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.40 m)",
+                        "name_plural": "Sofa beds (1.40 m)",
+                        "slug": "sofa-bed-140m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Single bed (90 cm)",
+                        "name_plural": "Single beds (90 cm)",
+                        "slug": "single-bed-90cm",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.80 m)",
+                        "name_plural": "Sofa beds (1.80 m)",
+                        "slug": "sofa-bed-180-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Daybed (1.00 m)",
+                        "name_plural": "Daybeds (1.00 m)",
+                        "slug": "daybed-100-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.50 m)",
+                        "name_plural": "Sofa beds (1.50 m)",
+                        "slug": "sofa-bed-150-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (90 cm)",
+                        "name_plural": "Sofa beds (90 cm)",
+                        "slug": "sofa-bed-90-cm",
+                        "value": 0
+                    },
+                    {
+                        "icon": "temperature-low",
+                        "name": "Air Conditioning",
+                        "name_plural": "Air Conditioning",
+                        "slug": "air-conditioning",
+                        "value": 0
+                    },
+                    {
+                        "icon": "warehouse",
+                        "name": "Bunk bed (2x 80cm)",
+                        "name_plural": "Bunk beds (2x 80cm)",
+                        "slug": "bunk-bed-2x-80cm",
+                        "value": 0
+                    },
+                    {
+                        "icon": "",
+                        "name": "Super King-size bed (2.00 m)",
+                        "name_plural": "Super King-size beds (2.00 m)",
+                        "slug": "super-king-size-bed-200-m",
+                        "value": 0
+                    }
+                ],
+                "amenities": [
+                    {
+                        "icon": "utensils",
+                        "name": "Fully-equipped kitchen"
+                    },
+                    {
+                        "icon": "wind",
+                        "name": "Hairdryer"
+                    },
+                    {
+                        "icon": "mobile-screen-button",
+                        "name": "Digital access"
+                    },
+                    {
+                        "icon": "leaf",
+                        "name": "Cosmetics made in Italy"
+                    },
+                    {
+                        "icon": "wifi",
+                        "name": "High-speed Wifi"
+                    },
+                    {
+                        "icon": "tv",
+                        "name": "Smart-TV"
+                    },
+                    {
+                        "icon": "chair",
+                        "name": "Design furniture"
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Premium beds"
+                    },
+                    {
+                        "icon": "mug-hot",
+                        "name": "Free coffee & tea as welcome gift"
+                    },
+                    {
+                        "icon": "laptop",
+                        "name": "Laptop friendly workspace"
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/8/0d95a85f-eb9c-412c-b35d-679ab4de7925.jpg",
+                        "is_portrait": false,
+                        "position": 0
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/8/1eeaadae-8f24-49b5-adf0-9f99e8b7229e.jpg",
+                        "is_portrait": true,
+                        "position": 2
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/8/1effaf0c-d59a-4f33-82f2-8824749f2164.jpg",
+                        "is_portrait": false,
+                        "position": 3
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/8/d0d3aabe-b6e1-40c5-b9ed-3a09e088cae7.jpg",
+                        "is_portrait": false,
+                        "position": 4
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/8/6e1999ba-a948-4d55-864c-de9368469cd4.jpg",
+                        "is_portrait": false,
+                        "position": 5
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/8/4b0e1f75-a69d-43f4-9cba-b90cba8ff27d.jpg",
+                        "is_portrait": false,
+                        "position": 6
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/8/c5d6c2d2-44ef-4ddf-97b1-16923dcfb9d6.jpg",
+                        "is_portrait": false,
+                        "position": 7
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/8/da453467-0fb1-4b3e-8f8c-aa00bf6de730.jpg",
+                        "is_portrait": false,
+                        "position": 8
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/8/6c892479-ac08-4e1b-9f50-8fb117b16e41.jpg",
+                        "is_portrait": false,
+                        "position": 9
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/8/9cce69f1-cb24-44e6-bb00-15da18eb03b5.jpg",
+                        "is_portrait": false,
+                        "position": 10
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "title": "Aachen Vereinsstraße | Superior Suite",
+                "description": "Our 28-32 sqm Suites L are furnished to our highest modern standards. The Suites feature a fully equipped kitchen, a comfortable box-spring bed (1.60 m) including a modern smart TV and a private bathroom with shower, so you can feel right at home. In case of dirty laundry, you have the possibility to wash your clothes in the shared laundry room. Therefore your apartment offers everything you need for a stay with us in just one room.",
+                "custom_title": "",
+                "external_id": "VER2-APARTMENT",
+                "name": "Suite L",
+                "max_guests": 2,
+                "rental_type": "ST",
+                "bedroom_count": 1,
+                "lowest_price_per_night": null,
+                "lowest_price_per_month": null,
+                "spaces": [
+                    {
+                        "icon": "house-user",
+                        "name": "m²",
+                        "name_plural": "m²",
+                        "slug": "square-meter",
+                        "value": 30
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Queen-size bed (1.60 m)",
+                        "name_plural": "Queen-size beds (1.60 m)",
+                        "slug": "beds",
+                        "value": 1
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.60 m)",
+                        "name_plural": "Sofa beds (1.60 m)",
+                        "slug": "sofa-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Single bed (1.20 m)",
+                        "name_plural": "Single beds",
+                        "slug": "single-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Double bed (1.40 m)",
+                        "name_plural": "Double beds (1.40 m)",
+                        "slug": "double-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "door-open",
+                        "name": "Room",
+                        "name_plural": "Rooms",
+                        "slug": "room",
+                        "value": 1
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Queen-size bed (1.50 m)",
+                        "name_plural": "Queen-size beds (1.50 m)",
+                        "slug": "double-bed-150-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "King-size bed (1.80 m)",
+                        "name_plural": "King-size beds (1.80 m)",
+                        "slug": "king-size-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "umbrella-beach",
+                        "name": "Balcony",
+                        "name_plural": "Balconies",
+                        "slug": "balcony",
+                        "value": 0
+                    },
+                    {
+                        "icon": "cloud-sun",
+                        "name": "Terrace",
+                        "name_plural": "Terraces",
+                        "slug": "terrace",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.40 m)",
+                        "name_plural": "Sofa beds (1.40 m)",
+                        "slug": "sofa-bed-140m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Single bed (90 cm)",
+                        "name_plural": "Single beds (90 cm)",
+                        "slug": "single-bed-90cm",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.80 m)",
+                        "name_plural": "Sofa beds (1.80 m)",
+                        "slug": "sofa-bed-180-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Daybed (1.00 m)",
+                        "name_plural": "Daybeds (1.00 m)",
+                        "slug": "daybed-100-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.50 m)",
+                        "name_plural": "Sofa beds (1.50 m)",
+                        "slug": "sofa-bed-150-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (90 cm)",
+                        "name_plural": "Sofa beds (90 cm)",
+                        "slug": "sofa-bed-90-cm",
+                        "value": 0
+                    },
+                    {
+                        "icon": "temperature-low",
+                        "name": "Air Conditioning",
+                        "name_plural": "Air Conditioning",
+                        "slug": "air-conditioning",
+                        "value": 0
+                    },
+                    {
+                        "icon": "warehouse",
+                        "name": "Bunk bed (2x 80cm)",
+                        "name_plural": "Bunk beds (2x 80cm)",
+                        "slug": "bunk-bed-2x-80cm",
+                        "value": 0
+                    },
+                    {
+                        "icon": "",
+                        "name": "Super King-size bed (2.00 m)",
+                        "name_plural": "Super King-size beds (2.00 m)",
+                        "slug": "super-king-size-bed-200-m",
+                        "value": 0
+                    }
+                ],
+                "amenities": [
+                    {
+                        "icon": "utensils",
+                        "name": "Fully-equipped kitchen"
+                    },
+                    {
+                        "icon": "wind",
+                        "name": "Hairdryer"
+                    },
+                    {
+                        "icon": "mobile-screen-button",
+                        "name": "Digital access"
+                    },
+                    {
+                        "icon": "leaf",
+                        "name": "Cosmetics made in Italy"
+                    },
+                    {
+                        "icon": "wifi",
+                        "name": "High-speed Wifi"
+                    },
+                    {
+                        "icon": "tv",
+                        "name": "Smart-TV"
+                    },
+                    {
+                        "icon": "chair",
+                        "name": "Design furniture"
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Premium beds"
+                    },
+                    {
+                        "icon": "mug-hot",
+                        "name": "Free coffee & tea as welcome gift"
+                    },
+                    {
+                        "icon": "laptop",
+                        "name": "Laptop friendly workspace"
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/9/6f584afc-2e08-4671-9527-7f52f3b42ff6.jpg",
+                        "is_portrait": false,
+                        "position": 0
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/9/4657e003-059a-47fd-8b8b-4561e60e8fc2.jpg",
+                        "is_portrait": true,
+                        "position": 2
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/9/523fe49d-9f56-49c7-944b-0efa7b92d760.jpg",
+                        "is_portrait": false,
+                        "position": 3
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/9/4f61d8a9-c34f-455f-a87f-d01e7047f6fe.jpg",
+                        "is_portrait": false,
+                        "position": 4
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/9/456efef2-96e5-4286-8cf8-a8ce97843b77.jpg",
+                        "is_portrait": false,
+                        "position": 5
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/9/bbedc735-cf90-4cb9-81f7-6b0fededcf74.jpg",
+                        "is_portrait": true,
+                        "position": 6
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/9/2dfc0a5e-0da4-4e5c-9b2b-3ffc1d06377b.jpg",
+                        "is_portrait": false,
+                        "position": 7
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/9/7e2cf73d-ec3a-45b8-87c0-68b5af3c8339.jpg",
+                        "is_portrait": false,
+                        "position": 8
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/9/083a5b21-159e-41d9-9eb4-554948c795b6.jpg",
+                        "is_portrait": false,
+                        "position": 9
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/9/1b5cbd8b-3672-4fc4-93d7-134d2a3a8d7a.jpg",
+                        "is_portrait": false,
+                        "position": 10
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/9/e734a016-1efb-410b-a506-e12c1e31a5f8.jpg",
+                        "is_portrait": false,
+                        "position": 11
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/9/2d629303-8633-460c-ab08-998915675f1a.jpg",
+                        "is_portrait": false,
+                        "position": 12
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/9/545e5c1d-27d8-4dff-97c9-f866c5a0c40e.jpg",
+                        "is_portrait": true,
+                        "position": 13
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/9/6fd84b90-730b-4f2e-9b06-1c54a1ad0532.jpg",
+                        "is_portrait": false,
+                        "position": 14
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/9/8464cdf6-038c-4213-805d-78bdcab0b6ac.jpg",
+                        "is_portrait": false,
+                        "position": 15
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "title": "Aachen Vereinsstraße | Superior Suite long-term ",
+                "description": "Our 33 sqm Suites L for stays over 28 nights have been furnished to our highest modern standards. The Suites feature a fully equipped kitchen, a comfortable box-spring bed (1.60 m) including a modern smart TV and a private bathroom with shower to make you feel at home. In case of dirty laundry, you have the possibility to wash your clothes in the shared laundry room. Therefore your apartment offers everything you need for a stay with us in just one room.",
+                "custom_title": "",
+                "external_id": "VER2-LONGTERM",
+                "name": "Suite L (LT)",
+                "max_guests": 2,
+                "rental_type": "LT",
+                "bedroom_count": 1,
+                "lowest_price_per_night": null,
+                "lowest_price_per_month": null,
+                "spaces": [
+                    {
+                        "icon": "house-user",
+                        "name": "m²",
+                        "name_plural": "m²",
+                        "slug": "square-meter",
+                        "value": 33
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Queen-size bed (1.60 m)",
+                        "name_plural": "Queen-size beds (1.60 m)",
+                        "slug": "beds",
+                        "value": 1
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.60 m)",
+                        "name_plural": "Sofa beds (1.60 m)",
+                        "slug": "sofa-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Single bed (1.20 m)",
+                        "name_plural": "Single beds",
+                        "slug": "single-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Double bed (1.40 m)",
+                        "name_plural": "Double beds (1.40 m)",
+                        "slug": "double-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "door-open",
+                        "name": "Room",
+                        "name_plural": "Rooms",
+                        "slug": "room",
+                        "value": 1
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Queen-size bed (1.50 m)",
+                        "name_plural": "Queen-size beds (1.50 m)",
+                        "slug": "double-bed-150-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "King-size bed (1.80 m)",
+                        "name_plural": "King-size beds (1.80 m)",
+                        "slug": "king-size-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "umbrella-beach",
+                        "name": "Balcony",
+                        "name_plural": "Balconies",
+                        "slug": "balcony",
+                        "value": 0
+                    },
+                    {
+                        "icon": "cloud-sun",
+                        "name": "Terrace",
+                        "name_plural": "Terraces",
+                        "slug": "terrace",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.40 m)",
+                        "name_plural": "Sofa beds (1.40 m)",
+                        "slug": "sofa-bed-140m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Single bed (90 cm)",
+                        "name_plural": "Single beds (90 cm)",
+                        "slug": "single-bed-90cm",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.80 m)",
+                        "name_plural": "Sofa beds (1.80 m)",
+                        "slug": "sofa-bed-180-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Daybed (1.00 m)",
+                        "name_plural": "Daybeds (1.00 m)",
+                        "slug": "daybed-100-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.50 m)",
+                        "name_plural": "Sofa beds (1.50 m)",
+                        "slug": "sofa-bed-150-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (90 cm)",
+                        "name_plural": "Sofa beds (90 cm)",
+                        "slug": "sofa-bed-90-cm",
+                        "value": 0
+                    },
+                    {
+                        "icon": "temperature-low",
+                        "name": "Air Conditioning",
+                        "name_plural": "Air Conditioning",
+                        "slug": "air-conditioning",
+                        "value": 0
+                    }
+                ],
+                "amenities": [
+                    {
+                        "icon": "utensils",
+                        "name": "Fully-equipped kitchen"
+                    },
+                    {
+                        "icon": "wind",
+                        "name": "Hairdryer"
+                    },
+                    {
+                        "icon": "soap",
+                        "name": "Washing machine & iron"
+                    },
+                    {
+                        "icon": "mobile-screen-button",
+                        "name": "Digital access"
+                    },
+                    {
+                        "icon": "leaf",
+                        "name": "Cosmetics made in Italy"
+                    },
+                    {
+                        "icon": "wifi",
+                        "name": "High-speed Wifi"
+                    },
+                    {
+                        "icon": "door-closed",
+                        "name": "Wardrobe"
+                    },
+                    {
+                        "icon": "tv",
+                        "name": "Smart-TV"
+                    },
+                    {
+                        "icon": "chair",
+                        "name": "Design furniture"
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Premium beds"
+                    },
+                    {
+                        "icon": "mug-hot",
+                        "name": "Free coffee & tea as welcome gift"
+                    },
+                    {
+                        "icon": "laptop",
+                        "name": "Laptop friendly workspace"
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/10/9a252a28-3860-4627-bdc3-939218814f21.jpg",
+                        "is_portrait": false,
+                        "position": 0
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/10/85976d9f-1013-40ad-a0a8-46d5016b8aec.jpg",
+                        "is_portrait": true,
+                        "position": 2
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/10/419a3016-bf32-47a0-b81c-3610eb14c7c3.jpg",
+                        "is_portrait": false,
+                        "position": 3
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/10/d14d0cef-52bd-49d9-b297-d0ace4bde5f9.jpg",
+                        "is_portrait": false,
+                        "position": 4
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/10/82781104-59e0-4a7d-8b3c-6fcfbc046d55.jpg",
+                        "is_portrait": false,
+                        "position": 5
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/10/834ea38c-ff5d-45cf-942a-0703fb79ff7b.jpg",
+                        "is_portrait": true,
+                        "position": 6
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/10/6a75018d-2f90-45df-938b-868fd1cb50cf.jpg",
+                        "is_portrait": false,
+                        "position": 7
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/10/1a46f803-4647-4b52-96d3-f58dacc67b64.jpg",
+                        "is_portrait": false,
+                        "position": 8
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/10/f565ac86-d51a-40a9-ab3d-8d2771400f52.jpg",
+                        "is_portrait": false,
+                        "position": 9
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/10/f0122ede-2159-4392-b1f1-cd72f453f02d.jpg",
+                        "is_portrait": false,
+                        "position": 10
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/10/33ed7a20-731c-4b81-bf9a-c1459ac47d40.jpg",
+                        "is_portrait": false,
+                        "position": 11
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "title": "Aachen Vereinsstrasse | Classic Suite",
+                "description": "Our 24 sqm Suites M are furnished to our highest modern standards. The Suites feature a fully equipped kitchen, a comfortable box-spring bed (1.60 m) including a modern smart TV, and a private bathroom with shower, so you can feel right at home. In case of dirty laundry, you have the possibility to wash your clothes in the shared laundry room. Therefore your apartment offers everything you need for a stay with us in just one room.",
+                "custom_title": "",
+                "external_id": "VER2-STUDIO",
+                "name": "Suite M",
+                "max_guests": 2,
+                "rental_type": "ST",
+                "bedroom_count": 1,
+                "lowest_price_per_night": null,
+                "lowest_price_per_month": null,
+                "spaces": [
+                    {
+                        "icon": "house-user",
+                        "name": "m²",
+                        "name_plural": "m²",
+                        "slug": "square-meter",
+                        "value": 24
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Queen-size bed (1.60 m)",
+                        "name_plural": "Queen-size beds (1.60 m)",
+                        "slug": "beds",
+                        "value": 1
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.60 m)",
+                        "name_plural": "Sofa beds (1.60 m)",
+                        "slug": "sofa-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Single bed (1.20 m)",
+                        "name_plural": "Single beds",
+                        "slug": "single-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Double bed (1.40 m)",
+                        "name_plural": "Double beds (1.40 m)",
+                        "slug": "double-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "door-open",
+                        "name": "Room",
+                        "name_plural": "Rooms",
+                        "slug": "room",
+                        "value": 1
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Queen-size bed (1.50 m)",
+                        "name_plural": "Queen-size beds (1.50 m)",
+                        "slug": "double-bed-150-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "King-size bed (1.80 m)",
+                        "name_plural": "King-size beds (1.80 m)",
+                        "slug": "king-size-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "umbrella-beach",
+                        "name": "Balcony",
+                        "name_plural": "Balconies",
+                        "slug": "balcony",
+                        "value": 0
+                    },
+                    {
+                        "icon": "cloud-sun",
+                        "name": "Terrace",
+                        "name_plural": "Terraces",
+                        "slug": "terrace",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.40 m)",
+                        "name_plural": "Sofa beds (1.40 m)",
+                        "slug": "sofa-bed-140m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Single bed (90 cm)",
+                        "name_plural": "Single beds (90 cm)",
+                        "slug": "single-bed-90cm",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.80 m)",
+                        "name_plural": "Sofa beds (1.80 m)",
+                        "slug": "sofa-bed-180-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Daybed (1.00 m)",
+                        "name_plural": "Daybeds (1.00 m)",
+                        "slug": "daybed-100-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.50 m)",
+                        "name_plural": "Sofa beds (1.50 m)",
+                        "slug": "sofa-bed-150-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (90 cm)",
+                        "name_plural": "Sofa beds (90 cm)",
+                        "slug": "sofa-bed-90-cm",
+                        "value": 0
+                    },
+                    {
+                        "icon": "temperature-low",
+                        "name": "Air Conditioning",
+                        "name_plural": "Air Conditioning",
+                        "slug": "air-conditioning",
+                        "value": 0
+                    },
+                    {
+                        "icon": "warehouse",
+                        "name": "Bunk bed (2x 80cm)",
+                        "name_plural": "Bunk beds (2x 80cm)",
+                        "slug": "bunk-bed-2x-80cm",
+                        "value": 0
+                    },
+                    {
+                        "icon": "",
+                        "name": "Super King-size bed (2.00 m)",
+                        "name_plural": "Super King-size beds (2.00 m)",
+                        "slug": "super-king-size-bed-200-m",
+                        "value": 0
+                    }
+                ],
+                "amenities": [
+                    {
+                        "icon": "utensils",
+                        "name": "Fully-equipped kitchen"
+                    },
+                    {
+                        "icon": "wind",
+                        "name": "Hairdryer"
+                    },
+                    {
+                        "icon": "mobile-screen-button",
+                        "name": "Digital access"
+                    },
+                    {
+                        "icon": "leaf",
+                        "name": "Cosmetics made in Italy"
+                    },
+                    {
+                        "icon": "wifi",
+                        "name": "High-speed Wifi"
+                    },
+                    {
+                        "icon": "tv",
+                        "name": "Smart-TV"
+                    },
+                    {
+                        "icon": "chair",
+                        "name": "Design furniture"
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Premium beds"
+                    },
+                    {
+                        "icon": "mug-hot",
+                        "name": "Free coffee & tea as welcome gift"
+                    },
+                    {
+                        "icon": "laptop",
+                        "name": "Laptop friendly workspace"
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/11/e37bcf66-1eec-4a14-8516-d8957d8dfa0e.jpg",
+                        "is_portrait": false,
+                        "position": 0
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/11/3186a484-266d-49d4-8b7e-35c43fcffff9.jpg",
+                        "is_portrait": true,
+                        "position": 2
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/11/c4c35c49-fae8-4054-9a8c-335e4aab7aca.jpg",
+                        "is_portrait": false,
+                        "position": 3
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/11/789b2fce-f233-4f12-b989-4127d3655a51.jpg",
+                        "is_portrait": false,
+                        "position": 4
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/11/8b24f52a-1ef4-478c-af9e-59d9d4e3dd65.jpg",
+                        "is_portrait": false,
+                        "position": 5
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/11/db794947-6b92-4e0f-a456-7d05e47fe380.jpg",
+                        "is_portrait": false,
+                        "position": 6
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/11/5547aaa6-6da8-40e0-9857-21692c1dcb02.jpg",
+                        "is_portrait": false,
+                        "position": 7
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/11/a41c6b5c-0064-45e1-a7f1-82fe0c67cb8b.jpg",
+                        "is_portrait": false,
+                        "position": 8
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/11/5e505442-f8ff-4efa-b6df-b30bab7f82ab.jpg",
+                        "is_portrait": false,
+                        "position": 9
+                    }
+                ]
+            },
+            {
+                "id": 441,
+                "title": "aachen vereinsstraße | Single Suite S",
+                "description": "Our 19 sqm Single Suites S are the ideal choice if you are traveling alone and have been furnished to our highest modern standards. The Suites feature a fully equipped kitchen, a comfortable box-spring bed (1.40 m) including a modern smart TV, and a private bathroom with a floor-to-ceiling shower, so you can feel right at home. In case of dirty laundry, you have the possibility to wash your clothes in the shared laundry room. Therefore your apartment offers everything you need for a stay with us in just one room.",
+                "custom_title": "",
+                "external_id": "VER2-C08",
+                "name": "Single Suite S",
+                "max_guests": 1,
+                "rental_type": "ST",
+                "bedroom_count": 1,
+                "lowest_price_per_night": null,
+                "lowest_price_per_month": null,
+                "spaces": [
+                    {
+                        "icon": "house-user",
+                        "name": "m²",
+                        "name_plural": "m²",
+                        "slug": "square-meter",
+                        "value": 19
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Queen-size bed (1.60 m)",
+                        "name_plural": "Queen-size beds (1.60 m)",
+                        "slug": "beds",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.60 m)",
+                        "name_plural": "Sofa beds (1.60 m)",
+                        "slug": "sofa-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Single bed (1.20 m)",
+                        "name_plural": "Single beds",
+                        "slug": "single-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Double bed (1.40 m)",
+                        "name_plural": "Double beds (1.40 m)",
+                        "slug": "double-bed",
+                        "value": 1
+                    },
+                    {
+                        "icon": "door-open",
+                        "name": "Room",
+                        "name_plural": "Rooms",
+                        "slug": "room",
+                        "value": 1
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Queen-size bed (1.50 m)",
+                        "name_plural": "Queen-size beds (1.50 m)",
+                        "slug": "double-bed-150-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "King-size bed (1.80 m)",
+                        "name_plural": "King-size beds (1.80 m)",
+                        "slug": "king-size-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "umbrella-beach",
+                        "name": "Balcony",
+                        "name_plural": "Balconies",
+                        "slug": "balcony",
+                        "value": 0
+                    },
+                    {
+                        "icon": "cloud-sun",
+                        "name": "Terrace",
+                        "name_plural": "Terraces",
+                        "slug": "terrace",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.40 m)",
+                        "name_plural": "Sofa beds (1.40 m)",
+                        "slug": "sofa-bed-140m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Single bed (90 cm)",
+                        "name_plural": "Single beds (90 cm)",
+                        "slug": "single-bed-90cm",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.80 m)",
+                        "name_plural": "Sofa beds (1.80 m)",
+                        "slug": "sofa-bed-180-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Daybed (1.00 m)",
+                        "name_plural": "Daybeds (1.00 m)",
+                        "slug": "daybed-100-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.50 m)",
+                        "name_plural": "Sofa beds (1.50 m)",
+                        "slug": "sofa-bed-150-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (90 cm)",
+                        "name_plural": "Sofa beds (90 cm)",
+                        "slug": "sofa-bed-90-cm",
+                        "value": 0
+                    },
+                    {
+                        "icon": "temperature-low",
+                        "name": "Air Conditioning",
+                        "name_plural": "Air Conditioning",
+                        "slug": "air-conditioning",
+                        "value": 0
+                    },
+                    {
+                        "icon": "warehouse",
+                        "name": "Bunk bed (2x 80cm)",
+                        "name_plural": "Bunk beds (2x 80cm)",
+                        "slug": "bunk-bed-2x-80cm",
+                        "value": 0
+                    },
+                    {
+                        "icon": "",
+                        "name": "Super King-size bed (2.00 m)",
+                        "name_plural": "Super King-size beds (2.00 m)",
+                        "slug": "super-king-size-bed-200-m",
+                        "value": 0
+                    }
+                ],
+                "amenities": [
+                    {
+                        "icon": "utensils",
+                        "name": "Fully-equipped kitchen"
+                    },
+                    {
+                        "icon": "wind",
+                        "name": "Hairdryer"
+                    },
+                    {
+                        "icon": "mobile-screen-button",
+                        "name": "Digital access"
+                    },
+                    {
+                        "icon": "leaf",
+                        "name": "Cosmetics made in Italy"
+                    },
+                    {
+                        "icon": "wifi",
+                        "name": "High-speed Wifi"
+                    },
+                    {
+                        "icon": "tv",
+                        "name": "Smart-TV"
+                    },
+                    {
+                        "icon": "chair",
+                        "name": "Design furniture"
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Premium beds"
+                    },
+                    {
+                        "icon": "mug-hot",
+                        "name": "Free coffee & tea as welcome gift"
+                    },
+                    {
+                        "icon": "laptop",
+                        "name": "Laptop friendly workspace"
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/441/e435d408-7275-4d1a-b7dc-671ebe3a6c5b.jpg",
+                        "is_portrait": false,
+                        "position": 0
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/441/90e70818-6cb1-4ed1-a77f-5f13d7b32974.jpg",
+                        "is_portrait": true,
+                        "position": 2
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/441/c87abfeb-19a9-4c71-bcf4-0f2a9e43f076.jpg",
+                        "is_portrait": false,
+                        "position": 3
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/441/285548af-e826-4c20-9374-6f3dee2250a3.jpg",
+                        "is_portrait": false,
+                        "position": 4
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/441/b146a30d-3b43-4e23-a8b9-8768e16c3fef.jpg",
+                        "is_portrait": false,
+                        "position": 5
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/441/4b51f40b-d512-47c3-93f0-4694b344f30a.jpg",
+                        "is_portrait": false,
+                        "position": 6
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/441/cb70328c-c93f-42dd-a38e-6fd5ddef3b56.jpg",
+                        "is_portrait": false,
+                        "position": 7
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/441/3d1ffa37-facc-43be-9b84-e2ce34d173b7.jpg",
+                        "is_portrait": false,
+                        "position": 8
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/441/4b615a72-dee9-4af7-a8e7-36aec5d21e02.jpg",
+                        "is_portrait": false,
+                        "position": 9
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/441/139d25e9-bc8d-4438-9049-92dd62710899.jpg",
+                        "is_portrait": false,
+                        "position": 10
+                    }
+                ]
+            },
+            {
+                "id": 442,
+                "title": "aachen vereinsstraße | Suite XL",
+                "description": "Our 39-40 sqm Suites XL are furnished to our highest modern standards. The Suites feature a fully equipped kitchen, a comfortable box-spring bed (1.60 m) including a modern smart TV, and a private bathroom with shower, so you can feel right at home. In addition, you can relax on the comfortable sofa and end your day. In case of dirty laundry, you have the possibility to wash your clothes in the shared laundry room. Therefore your apartment offers everything you need for a stay with us in just one room.",
+                "custom_title": "",
+                "external_id": "VER2-C64",
+                "name": "Suite XL",
+                "max_guests": 2,
+                "rental_type": "ST",
+                "bedroom_count": 1,
+                "lowest_price_per_night": null,
+                "lowest_price_per_month": null,
+                "spaces": [
+                    {
+                        "icon": "house-user",
+                        "name": "m²",
+                        "name_plural": "m²",
+                        "slug": "square-meter",
+                        "value": 39
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Queen-size bed (1.60 m)",
+                        "name_plural": "Queen-size beds (1.60 m)",
+                        "slug": "beds",
+                        "value": 1
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.60 m)",
+                        "name_plural": "Sofa beds (1.60 m)",
+                        "slug": "sofa-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Single bed (1.20 m)",
+                        "name_plural": "Single beds",
+                        "slug": "single-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Double bed (1.40 m)",
+                        "name_plural": "Double beds (1.40 m)",
+                        "slug": "double-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "door-open",
+                        "name": "Room",
+                        "name_plural": "Rooms",
+                        "slug": "room",
+                        "value": 1
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Queen-size bed (1.50 m)",
+                        "name_plural": "Queen-size beds (1.50 m)",
+                        "slug": "double-bed-150-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "King-size bed (1.80 m)",
+                        "name_plural": "King-size beds (1.80 m)",
+                        "slug": "king-size-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "umbrella-beach",
+                        "name": "Balcony",
+                        "name_plural": "Balconies",
+                        "slug": "balcony",
+                        "value": 0
+                    },
+                    {
+                        "icon": "cloud-sun",
+                        "name": "Terrace",
+                        "name_plural": "Terraces",
+                        "slug": "terrace",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.40 m)",
+                        "name_plural": "Sofa beds (1.40 m)",
+                        "slug": "sofa-bed-140m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Single bed (90 cm)",
+                        "name_plural": "Single beds (90 cm)",
+                        "slug": "single-bed-90cm",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.80 m)",
+                        "name_plural": "Sofa beds (1.80 m)",
+                        "slug": "sofa-bed-180-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Daybed (1.00 m)",
+                        "name_plural": "Daybeds (1.00 m)",
+                        "slug": "daybed-100-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.50 m)",
+                        "name_plural": "Sofa beds (1.50 m)",
+                        "slug": "sofa-bed-150-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (90 cm)",
+                        "name_plural": "Sofa beds (90 cm)",
+                        "slug": "sofa-bed-90-cm",
+                        "value": 0
+                    },
+                    {
+                        "icon": "temperature-low",
+                        "name": "Air Conditioning",
+                        "name_plural": "Air Conditioning",
+                        "slug": "air-conditioning",
+                        "value": 0
+                    },
+                    {
+                        "icon": "warehouse",
+                        "name": "Bunk bed (2x 80cm)",
+                        "name_plural": "Bunk beds (2x 80cm)",
+                        "slug": "bunk-bed-2x-80cm",
+                        "value": 0
+                    },
+                    {
+                        "icon": "",
+                        "name": "Super King-size bed (2.00 m)",
+                        "name_plural": "Super King-size beds (2.00 m)",
+                        "slug": "super-king-size-bed-200-m",
+                        "value": 0
+                    }
+                ],
+                "amenities": [
+                    {
+                        "icon": "utensils",
+                        "name": "Fully-equipped kitchen"
+                    },
+                    {
+                        "icon": "wind",
+                        "name": "Hairdryer"
+                    },
+                    {
+                        "icon": "mobile-screen-button",
+                        "name": "Digital access"
+                    },
+                    {
+                        "icon": "leaf",
+                        "name": "Cosmetics made in Italy"
+                    },
+                    {
+                        "icon": "wifi",
+                        "name": "High-speed Wifi"
+                    },
+                    {
+                        "icon": "door-closed",
+                        "name": "Wardrobe"
+                    },
+                    {
+                        "icon": "tv",
+                        "name": "Smart-TV"
+                    },
+                    {
+                        "icon": "chair",
+                        "name": "Design furniture"
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Premium beds"
+                    },
+                    {
+                        "icon": "mug-hot",
+                        "name": "Free coffee & tea as welcome gift"
+                    },
+                    {
+                        "icon": "laptop",
+                        "name": "Laptop friendly workspace"
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/442/64546a03-14f1-45ab-8bfd-79ea091f0e30.jpg",
+                        "is_portrait": false,
+                        "position": 0
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/442/c460a7c3-7e04-446c-8b9a-a0c61698fd68.jpg",
+                        "is_portrait": false,
+                        "position": 2
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/442/05474e6b-4cd6-4ffb-8c53-8f46f36fe579.jpg",
+                        "is_portrait": false,
+                        "position": 3
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/442/3f3bef70-a038-4fb0-a32f-25e0f6964430.jpg",
+                        "is_portrait": false,
+                        "position": 4
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/442/ed9e2266-d084-40a2-a5be-ee022b4dd437.jpg",
+                        "is_portrait": false,
+                        "position": 5
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/442/450f9fdb-05f4-48e6-9e75-3ec1b8f01b97.jpg",
+                        "is_portrait": false,
+                        "position": 6
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/442/128cb3fd-062e-4547-878a-76f137858100.jpg",
+                        "is_portrait": false,
+                        "position": 7
+                    }
+                ]
+            },
+            {
+                "id": 443,
+                "title": "aachen vereinsstraße | Suite XL (28+ nights)",
+                "description": "Our 37 sqm Suites XL for stays over 28 nights are furnished to our highest modern standards. The Suites feature a fully equipped kitchen, a comfortable box-spring bed (1.60 m) including a modern smart TV and a private bathroom with shower to make you feel at home. In addition, you can relax on the comfortable sofa and end your day. In case of dirty laundry, you have the possibility to wash your clothes in the shared laundry room. Therefore your apartment offers everything you need for a stay with us in just one room.",
+                "custom_title": "",
+                "external_id": "VER2-L64",
+                "name": "Suite XL (LT)",
+                "max_guests": 2,
+                "rental_type": "LT",
+                "bedroom_count": 1,
+                "lowest_price_per_night": null,
+                "lowest_price_per_month": null,
+                "spaces": [
+                    {
+                        "icon": "house-user",
+                        "name": "m²",
+                        "name_plural": "m²",
+                        "slug": "square-meter",
+                        "value": 37
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Queen-size bed (1.60 m)",
+                        "name_plural": "Queen-size beds (1.60 m)",
+                        "slug": "beds",
+                        "value": 1
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.60 m)",
+                        "name_plural": "Sofa beds (1.60 m)",
+                        "slug": "sofa-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Single bed (1.20 m)",
+                        "name_plural": "Single beds",
+                        "slug": "single-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Double bed (1.40 m)",
+                        "name_plural": "Double beds (1.40 m)",
+                        "slug": "double-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "door-open",
+                        "name": "Room",
+                        "name_plural": "Rooms",
+                        "slug": "room",
+                        "value": 1
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Queen-size bed (1.50 m)",
+                        "name_plural": "Queen-size beds (1.50 m)",
+                        "slug": "double-bed-150-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "King-size bed (1.80 m)",
+                        "name_plural": "King-size beds (1.80 m)",
+                        "slug": "king-size-bed",
+                        "value": 0
+                    },
+                    {
+                        "icon": "umbrella-beach",
+                        "name": "Balcony",
+                        "name_plural": "Balconies",
+                        "slug": "balcony",
+                        "value": 0
+                    },
+                    {
+                        "icon": "cloud-sun",
+                        "name": "Terrace",
+                        "name_plural": "Terraces",
+                        "slug": "terrace",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.40 m)",
+                        "name_plural": "Sofa beds (1.40 m)",
+                        "slug": "sofa-bed-140m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Single bed (90 cm)",
+                        "name_plural": "Single beds (90 cm)",
+                        "slug": "single-bed-90cm",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.80 m)",
+                        "name_plural": "Sofa beds (1.80 m)",
+                        "slug": "sofa-bed-180-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Daybed (1.00 m)",
+                        "name_plural": "Daybeds (1.00 m)",
+                        "slug": "daybed-100-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (1.50 m)",
+                        "name_plural": "Sofa beds (1.50 m)",
+                        "slug": "sofa-bed-150-m",
+                        "value": 0
+                    },
+                    {
+                        "icon": "couch",
+                        "name": "Sofa bed (90 cm)",
+                        "name_plural": "Sofa beds (90 cm)",
+                        "slug": "sofa-bed-90-cm",
+                        "value": 0
+                    },
+                    {
+                        "icon": "temperature-low",
+                        "name": "Air Conditioning",
+                        "name_plural": "Air Conditioning",
+                        "slug": "air-conditioning",
+                        "value": 0
+                    }
+                ],
+                "amenities": [
+                    {
+                        "icon": "utensils",
+                        "name": "Fully-equipped kitchen"
+                    },
+                    {
+                        "icon": "wind",
+                        "name": "Hairdryer"
+                    },
+                    {
+                        "icon": "soap",
+                        "name": "Washing machine & iron"
+                    },
+                    {
+                        "icon": "mobile-screen-button",
+                        "name": "Digital access"
+                    },
+                    {
+                        "icon": "leaf",
+                        "name": "Cosmetics made in Italy"
+                    },
+                    {
+                        "icon": "wifi",
+                        "name": "High-speed Wifi"
+                    },
+                    {
+                        "icon": "door-closed",
+                        "name": "Wardrobe"
+                    },
+                    {
+                        "icon": "tv",
+                        "name": "Smart-TV"
+                    },
+                    {
+                        "icon": "chair",
+                        "name": "Design furniture"
+                    },
+                    {
+                        "icon": "bed",
+                        "name": "Premium beds"
+                    },
+                    {
+                        "icon": "mug-hot",
+                        "name": "Free coffee & tea as welcome gift"
+                    },
+                    {
+                        "icon": "laptop",
+                        "name": "Laptop friendly workspace"
+                    }
+                ],
+                "images": [
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/443/458595c7-24f2-4184-a15b-a9ecd5f17600.jpg",
+                        "is_portrait": false,
+                        "position": 0
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/443/add8fd48-0d8d-4112-97e2-b2ad191f4586.png",
+                        "is_portrait": false,
+                        "position": 1
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/443/5df79825-453b-4205-bd73-10afd5cfefb6.jpg",
+                        "is_portrait": false,
+                        "position": 2
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/443/b15c8c1a-3f3b-44e7-92de-e2ba0cecd56b.jpg",
+                        "is_portrait": false,
+                        "position": 3
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/443/4e07ba6c-c52f-44d2-830e-e5081416c499.jpg",
+                        "is_portrait": false,
+                        "position": 4
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/443/9f62d349-4891-4124-888b-3c15c730e849.jpg",
+                        "is_portrait": false,
+                        "position": 5
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/443/cc045b95-895d-4cb9-94db-b9e304614c2a.jpg",
+                        "is_portrait": false,
+                        "position": 6
+                    },
+                    {
+                        "url": "https://limehome.imgix.net/unit-groups/443/2b0ee910-b61a-4e99-8374-8808b274b9e3.jpg",
+                        "is_portrait": false,
+                        "position": 7
+                    }
+                ]
+            }
+        ]
+    }
+}
