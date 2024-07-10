@@ -11,7 +11,6 @@ export class LoginPage {
     constructor(page: Page, context: BrowserContext) {
         this.page = page;
         this.context = context;
-      
         this.userName = page.locator('form[id="login_form"] input[name="email"]');
         this.password = page.locator('input[name="passwd"]');
         this.signInBtn = page.locator('button[name="SubmitLogin"]');
