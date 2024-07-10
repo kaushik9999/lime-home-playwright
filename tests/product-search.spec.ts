@@ -27,7 +27,7 @@ test.describe('Product Search Tests', () => {
     test('User should be able to search for product "Blouse" and notice the retrived products', async ({ searchPage }) => {
         const searchString = "Blouse";
         await searchPage.searchProduct(searchString);
-        await searchPage.assertNumberOfPopulatedProducts(1); // Assert that the product title contains searched string
+        await searchPage.assertNumberOfPopulatedProducts(1); // Assert the number of products loaded
         await searchPage.assertAllSearchedProducts(searchString); // Assert that all the products title contains searched string
     })
 
