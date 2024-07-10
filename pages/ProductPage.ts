@@ -52,10 +52,6 @@ export class ProductPage {
         });
     }
 
-    async selectADifferentColor(color: string): Promise<void> {
-        //await this.page.
-    }
-
     async increaseQuantityBy(quantity: number): Promise<void> {
         await test.step('select quantity ' + quantity, async () => {
             for(let i=0;i<quantity;i++){
