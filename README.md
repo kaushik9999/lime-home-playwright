@@ -14,7 +14,7 @@
 5. Custom commands for running tests in various modes have already been included in the package.json file.
 6. To run all developed tests with the already added env file "env.qa," use the following command: "test_env=qa npm run test:headed check-out product-search shopping-cart limehome-properties-api".
 7. To run only the API tests you can use the command "test_env=qa npm run test:headed limehome-properties-api".
-8. By default, the project is configured for the tests to be run in fully parallel mode, if you want to run them in a serial manner, please update the property fullyParallel to false in the playwright.config.json.
+8. By default, the project is configured for the tests to be run in fully parallel mode, if you want to run them in a serial manner, please update the property fullyParallel to false in the playwright.config.ts.
 
 # PROJECT STRUCTURE
 1. Folder baseLib contains the base fixure.
